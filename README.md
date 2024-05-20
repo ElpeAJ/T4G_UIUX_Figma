@@ -1,13 +1,5 @@
 ﻿# T4G_UIUX_Figma
 
- <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Introduction to UI UX</title>
-    <link rel="stylesheet" href="src/style.css" />
-  </head>
   <body>
     <h1>Creative Design and Thinking - 1 <br>(UI UX)</h1>
     <div class="tasks">
